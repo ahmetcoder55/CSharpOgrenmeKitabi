@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="DegiskenDunyasi/DegiskenDunyasi.csproj" />
+  <Project Path="Variables/Variables.csproj" />
+</Solution>
