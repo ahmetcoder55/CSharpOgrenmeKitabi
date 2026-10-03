@@ -1,4 +1,6 @@
 <Solution>
   <Project Path="DegiskenDunyasi/DegiskenDunyasi.csproj" />
+  <Project Path="HesapMakinesii/HesapMakinesii.csproj" />
+  <Project Path="KullaniciEtkilesimi/KullaniciEtkilesimi.csproj" />
   <Project Path="Variables/Variables.csproj" />
 </Solution>
